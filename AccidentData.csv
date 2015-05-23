@@ -1,0 +1,31 @@
+Vehicle,Death,Mv_death,Sv_death,Rollover_death,Exposure ,Size
+Subaru Legacy 4WD,0,0,0,0,116291,Mid
+Acura TSX,7,7,0,0,216674,Mid
+Volkswagen CC,8,0,8,0,101114,Mid
+Honda Accord,19,12,7,2,2758908,Mid
+Volkswagen Jetta,20,20,0,0,112225,Mid
+Nissan Maxima,28,18,10,2,357008,Mid
+Toyota Camry hybrid,29,19,10,3,294261,Mid
+Ford Fusion 2WD,32,19,14,10,641184,Mid
+Hyundai Sonata,34,11,25,3,280780,Mid
+Toyota Camry,35,22,12,4,1026466,Mid
+Chevrolet Malibu,41,26,16,6,1042795,Mid
+Nissan Altima,44,35,7,3,537497,Mid
+Mazda 6,54,34,17,3,222880,Mid
+Ford Taurus 2WD,20,10,10,0,154873,Large
+Chevrolet Impala,35,27,8,2,468830,Large
+Toyota Avalon,37,22,15,5,145206,Large
+Buick Lacrosse 2WD,43,21,25,0,153002,Large
+Ford Crown Victoria,4,4,0,0,193425,Vlarge
+Mercury Grand Marquis,57,33,25,0,120360,Vlarge
+Toyota Prius hybrid,16,9,7,4,622139,Small
+Toyota Corolla,32,18,15,6,1114543,Small
+Chevrolet Cruze,42,35,4,0,171570,Small
+Kia Forte,46,31,12,4,190081,Small
+Honda Civic,49,28,21,8,1954222,Small
+Ford Focus,70,55,13,5,410771,Small
+Nissan Versa hatchback,71,37,33,20,556730,Small
+Nissan Versa sedan,130,44,87,51,276648,Small
+Chevrolet Aveo,99,65,31,10,296315,Mini
+Hyundai Accent,120,65,53,16,273617,Mini
+Kia Rio,149,96,54,15,258137,Mini
